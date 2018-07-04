@@ -1,6 +1,6 @@
 ## About
 
-This the reference implementation of the fuel-web3-provider
+This the reference implementation of the [fuel-web3-provider](https://github.com/ahmb84/fuel-web3-provider)
 
 ## Dependencies
 
