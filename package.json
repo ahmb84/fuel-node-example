@@ -1,0 +1,21 @@
+{
+  "name": "fuel-node-example",
+  "version": "1.0.0",
+  "description": "Example server for the fuel service",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "watch": "nodemon /src/index.js"
+  },
+  "author": "Abdallah-Hossayn Mokhtar Bacha <mokhtarbacha@protonmail.com>",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "web3": "^1.0.0-beta.33",
+    "fuel-web3-provider": "1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.13.0",
+    "shelljs": "^0.8.1",
+    "supertest": "^3.0.0"
+  }
+}
