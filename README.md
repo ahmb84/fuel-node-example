@@ -4,7 +4,7 @@ This the reference implementation of the [fuel-web3-provider](https://github.com
 
 ## Dependencies
 
-It requires a running instance of [fuel-server](https://github.com/ahmb84/fuel-server) service to run.
+By default the fuel-web3-provider is pointing to https://bagas.app/api/relay but you can running your own [fuel-server](https://github.com/ahmb84/fuel-server)
 
 ## Config
 
