@@ -10,8 +10,9 @@
   "author": "Abdallah-Hossayn Mokhtar Bacha <mokhtarbacha@protonmail.com>",
   "license": "AGPL-3.0",
   "dependencies": {
-    "web3": "^1.0.0-beta.33",
-    "fuel-web3-provider": "1.0.0"
+    "fuel-web3-provider": "^1.2.0",
+    "typedarray-to-buffer": "^3.1.5",
+    "web3": "^1.0.0-beta.33"
   },
   "devDependencies": {
     "nodemon": "^1.13.0",
