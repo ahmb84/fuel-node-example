@@ -37,3 +37,7 @@ You can run it in watch mode.
 ```javascript
     npm run watch
 ```
+
+## Demo
+
+![Alt Text](https://media.giphy.com/media/5BPWeEFH2Aqo4Xv6no/giphy.gif)
